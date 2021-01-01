@@ -1,5 +1,5 @@
 # pattern-delete
-A simple utility tool for deleting files with a pettern (regexp and extensions) also supports recursive deleting.
+A simple utility tool for deleting files with a pattern (regexp and extensions) also supports recursive deleting.
 
 ## how to use
 it works on a flag system you must provide either `-p` or `-e` flags or both.
